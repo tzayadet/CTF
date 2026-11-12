@@ -44,24 +44,24 @@
 
 | 🎯 **Challenge** | 🏟️ **Platform** | 🔧 **Category** | 📊 **Status** | 📖 **Writeup** |
 |---|---|---|---|---|
-| Empire Breakout | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/EmpireBreakout.md) |
-| The Planets: Earth | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/ThePlanetsEarh.md) |
-| Captain Linux | Hackviser | 🐧 Linux Exploitation | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/CaptainLinux.md) |
-| Windows RDC | Hackviser | 🪟 Windows Exploitation | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Windows_RDC.md) |
-| Windows PowerShell | Hackviser | 🪟 PowerShell Exploitation | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Windows_Powershell.md) |
-| Bandit | OverTheWire | 🐧 Linux Basics | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Bandit.md) |
-| ProFTPD CVE-2015-3306 | Hackviser | 🔓 Vulnerability Exploitation | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/ProFTPD_CVE-2015-3306.md) |
-| QueryGate | VulnHub | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/MySQL%20Query%20Gate.md) |
-| Boolean SQL Injection | Custom/Practice | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/BooleanSQL_Injection.md) |
-| Gandalf CTF AI | AI Security | 🤖 AI Prompt Injection | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Gandalf_CTF_AI.md) |
-| PentestingCTF | Custom/Practice | 🔍 General Pentesting | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/PentestingCTF.md) |
-| Secure Command | Custom/Practice | 🔐 Command Injection | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Secure_Command.md) |
-| Telnet Recon | Custom/Practice | 🔍 Network Reconnaissance | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/CTF/blob/main/Telnet_Recon.md) |
-| Python Quests | Codewars | Python | ✅ Improving | [📋 Analysis](https://github.com/Zyanetralys/Codewars) |
-| Python Quests | Codigo Facilito | Python | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/Python) |
-| SQL Quests | Codewars | SQL | ✅ Improving | [📋 Analysis](https://github.com/iceYami/Codewars) |
-| SQL Quests | SQL Police Department | SQL | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/SQL) |
-| SQL Quests | LostatSQL | SQL | ✅ Completed | [📋 Analysis](https://github.com/Zyanetralys/SQL) |
+| Empire Breakout | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/EmpireBreakout.md) |
+| The Planets: Earth | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/ThePlanetsEarh.md) |
+| Captain Linux | Hackviser | 🐧 Linux Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/CaptainLinux.md) |
+| Windows RDC | Hackviser | 🪟 Windows Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Windows_RDC.md) |
+| Windows PowerShell | Hackviser | 🪟 PowerShell Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Windows_Powershell.md) |
+| Bandit | OverTheWire | 🐧 Linux Basics | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Bandit.md) |
+| ProFTPD CVE-2015-3306 | Hackviser | 🔓 Vulnerability Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/ProFTPD_CVE-2015-3306.md) |
+| QueryGate | VulnHub | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/MySQL%20Query%20Gate.md) |
+| Boolean SQL Injection | Custom/Practice | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/BooleanSQL_Injection.md) |
+| Gandalf CTF AI | AI Security | 🤖 AI Prompt Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Gandalf_CTF_AI.md) |
+| PentestingCTF | Custom/Practice | 🔍 General Pentesting | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/PentestingCTF.md) |
+| Secure Command | Custom/Practice | 🔐 Command Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Secure_Command.md) |
+| Telnet Recon | Custom/Practice | 🔍 Network Reconnaissance | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Telnet_Recon.md) |
+| Python Quests | Codewars | Python | ✅ Improving | [📋 Analysis](https://github.com/tzayadet/Codewars) |
+| Python Quests | Codigo Facilito | Python | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/Python) |
+| SQL Quests | Codewars | SQL | ✅ Improving | [📋 Analysis](https://github.com/tzayadet/Codewars) |
+| SQL Quests | SQL Police Department | SQL | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/SQL-Basics) |
+| SQL Quests | LostatSQL | SQL | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/SQL-Basics) |
 
 ---
 
@@ -70,7 +70,7 @@
 | 🏆 Achievement | 📅 Date | 🎖️ Recognition | 📜 Details |
 |---|---|---|---|
 | Pentesting Pro Hacker Mentor | 2025 | 🥇 Professional Level | [🔗 Report](https://github.com/Zyanetralys) |
-| WiFiChallenge Lab | 2025 | 🥇 Professional Level | [🔗 Report](https://github.com/Zyanetralys/CTF/blob/main/PentestingCTF.md) |
+| WiFiChallenge Lab | 2025 | 🥇 Professional Level | [🔗 Report](https://github.com/tzayadet/CTF/blob/main/PentestingCTF.md) |
 
 ---
 
