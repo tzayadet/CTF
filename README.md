@@ -11,7 +11,7 @@ Colección personal de notas técnicas, laboratorios y write-ups de retos CTF. E
 | Linux | Bandit | OverTheWire | [Write-up](Bandit.md) |
 | Linux | Captain Linux | Hackviser | [Write-up](CaptainLinux.md) |
 | Linux | Empire Breakout | VulnHub | [Write-up](EmpireBreakout.md) |
-| Linux | Earth | VulnHub | [Write-up](ThePlanetsEarh.md) |
+| Linux | Earth | VulnHub | [Write-up](ThePlanetsEarth.md) |
 | Windows | Windows RDC | Hackviser | [Write-up](Windows_RDC.md) |
 | Windows | Windows PowerShell | Hackviser | [Write-up](Windows_Powershell.md) |
 | Web | EdgeCache | Six Hack Academy | [Write-up](EdgeCache.md) |
