@@ -1,155 +1,44 @@
-# ZYANETRALYS CTF
+# CTF Write-ups & Security Labs
 
-```
-    ╔══════════════════════════════════════════════════════════════╗
-    ║                                                              ║  
-    ║     "Los sistemas caen, los códigos se rompen,               ║
-    ║      pero nosotros, no podemos rendirnos"                    ║
-    ║                                                              ║
-    ╚══════════════════════════════════════════════════════════════╝
-```
+Colección personal de notas técnicas, laboratorios y write-ups de retos CTF. El repositorio documenta procesos de resolución, herramientas y conceptos practicados en entornos de formación.
 
-**Padawan · Digital Warfare Trainee**
+> **Alcance:** los objetivos descritos pertenecen a plataformas CTF, máquinas vulnerables y laboratorios autorizados. Las direcciones privadas que aparecen en algunos apuntes son direcciones de laboratorio, no sistemas públicos.
 
----
+## Contenido
 
-## ⚔️ BATTLEFIELD STATUS
-
-### 🎯 **ACTIVE OPERATIONS**
-```
-[████████████████████████████████████████] 100% PROVING
-```
-
-## 🛠️ **TECHNICAL ARSENAL**
-
-### **Tools**
-![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-ED1C24?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square)
-
-### **Programming**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-## 🏆 **CTF PORTFOLIO**
-
-![RvBGIF](https://64.media.tumblr.com/tumblr_mbt5dqb3CW1rhp124o2_400.gif)
-
-
-| 🎯 **Challenge** | 🏟️ **Platform** | 🔧 **Category** | 📊 **Status** | 📖 **Writeup** |
-|---|---|---|---|---|
-| Empire Breakout | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/EmpireBreakout.md) |
-| The Planets: Earth | VulnHub | 🖥️ Boot2Root | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/ThePlanetsEarh.md) |
-| Captain Linux | Hackviser | 🐧 Linux Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/CaptainLinux.md) |
-| Windows RDC | Hackviser | 🪟 Windows Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Windows_RDC.md) |
-| Windows PowerShell | Hackviser | 🪟 PowerShell Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Windows_Powershell.md) |
-| Bandit | OverTheWire | 🐧 Linux Basics | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Bandit.md) |
-| ProFTPD CVE-2015-3306 | Hackviser | 🔓 Vulnerability Exploitation | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/ProFTPD_CVE-2015-3306.md) |
-| QueryGate | VulnHub | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/MySQL%20Query%20Gate.md) |
-| Boolean SQL Injection | Custom/Practice | 💉 SQL Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/BooleanSQL_Injection.md) |
-| Gandalf CTF AI | AI Security | 🤖 AI Prompt Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Gandalf_CTF_AI.md) |
-| PentestingCTF | Custom/Practice | 🔍 General Pentesting | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/PentestingCTF.md) |
-| Secure Command | Custom/Practice | 🔐 Command Injection | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Secure_Command.md) |
-| Telnet Recon | Custom/Practice | 🔍 Network Reconnaissance | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/CTF/blob/main/Telnet_Recon.md) |
-| Python Quests | Codewars | Python | ✅ Improving | [📋 Analysis](https://github.com/tzayadet/Codewars) |
-| Python Quests | Codigo Facilito | Python | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/Python) |
-| SQL Quests | Codewars | SQL | ✅ Improving | [📋 Analysis](https://github.com/tzayadet/Codewars) |
-| SQL Quests | SQL Police Department | SQL | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/SQL-Basics) |
-| SQL Quests | LostatSQL | SQL | ✅ Completed | [📋 Analysis](https://github.com/tzayadet/SQL-Basics) |
-
----
-
-## 🏃 **COMPETITIONS**
-
-| 🏆 Achievement | 📅 Date | 🎖️ Recognition | 📜 Details |
+| Área | Reto / laboratorio | Plataforma o contexto | Documentación |
 |---|---|---|---|
-| Pentesting Pro Hacker Mentor | 2025 | 🥇 Professional Level | [🔗 Report](https://github.com/Zyanetralys) |
-| WiFiChallenge Lab | 2025 | 🥇 Professional Level | [🔗 Report](https://github.com/tzayadet/CTF/blob/main/PentestingCTF.md) |
+| Linux | Bandit | OverTheWire | [Write-up](Bandit.md) |
+| Linux | Captain Linux | Hackviser | [Write-up](CaptainLinux.md) |
+| Linux | Empire Breakout | VulnHub | [Write-up](EmpireBreakout.md) |
+| Linux | Earth | VulnHub | [Write-up](ThePlanetsEarh.md) |
+| Windows | Windows RDC | Hackviser | [Write-up](Windows_RDC.md) |
+| Windows | Windows PowerShell | Hackviser | [Write-up](Windows_Powershell.md) |
+| Web | EdgeCache | Six Hack Academy | [Write-up](EdgeCache.md) |
+| Web | Boolean-based SQL injection | Laboratorio práctico | [Write-up](BooleanSQL_Injection.md) |
+| Web | MySQL Query Gate | Hackviser | [Write-up](MySQL%20Query%20Gate.md) |
+| Web | Query Gate | Laboratorio práctico | [Write-up](Query_Gate.md) |
+| Web | Secure Command | Laboratorio práctico | [Write-up](Secure_Command.md) |
+| Servicios | ProFTPD CVE-2015-3306 | Laboratorio vulnerable | [Write-up](ProFTPD_CVE-2015-3306.md) |
+| Servicios | Telnet Recon | Laboratorio práctico | [Write-up](Telnet_Recon.md) |
+| IA / seguridad | Gandalf CTF AI | Lakera / prompt injection | [Notas](Gandalf_CTF_AI.md) |
+| Wi-Fi | WiFiChallenge Lab 2025 | Laboratorio Wi-Fi | [Notas](PentestingCTF.md) |
+| Simulación | No Country · septiembre 2025 | Simulación formativa | [Informe](NoCountrySim_Sep25.md) |
+| Otros | Command Challenge | Laboratorio práctico | [Notas](Command_Challenge.md) |
+| Otros | IT Challenge · Kahoot 2025 | Actividad formativa | [Notas](ITChallengeKahoot2025.md) |
+
+## Cómo leer los write-ups
+
+Cada documento puede incluir contexto, reconocimiento, hipótesis, pruebas, comandos, resultados, explicación técnica y aprendizajes. El nivel de detalle varía según el reto y las evidencias conservadas; estos apuntes no son auditorías independientes ni validaciones de seguridad de productos reales.
+
+## Tecnologías y áreas practicadas
+
+Linux · Windows · Networking · Nmap · SQL · Web Security · Pentesting · Servicios de red · Wi-Fi Security · Prompt Injection · Análisis técnico.
+
+## Autoría y atribución
+
+Los write-ups y apuntes son documentación personal de aprendizaje. Los retos, plataformas, máquinas, marcas y materiales de terceros pertenecen a sus respectivos autores. Cuando corresponde, se enlaza la fuente original.
 
 ---
 
-## 🏅 **CERTIFICATIONS**
-
-| 🏆 **Recognition** | 📅 **Date** | 📜 **Details** |
-|---|---|---|
-| OSCP | Current | [🔗 Report](.) |
-
----
-
-### 🏴‍☠️ **BOUNTY HUNTING**
-
-| 🏆 **Achievement** | 📅 **Date** | 🎖️ **Recognition** | 📜 **Details** |
-|---|---|---|---|
-| - | - | 🥇 **-** | [🔗 Report](.) |
-
----
-
-## 🎭 MISSION STATEMENT
-
-```ascii
-╭─────────────────────────────────────────────────────────╮
-│  OBJETIVO: Dominar el arte de la guerra cibernética    │
-│                                                         │
-│  ➤ RED TEAM tactics que hacen temblar blue teams       │
-│  ➤ PENETRATION testing que atraviesa cualquier defensa │
-│  ➤ EXPLOIT development que convierte bugs en llaves    │
-│  ➤ DIGITAL forensics que revelan todos los secretos    │
-╰─────────────────────────────────────────────────────────╯
-```
-
-**Metodología de Combate:**
-1. **🔍 RECONNAISSANCE** - *Conozco a mi enemigo mejor que él mismo*
-2. **💥 EXPLOITATION** - *Convierto debilidades en puertas abiertas*
-3. **👑 ESCALATION** - *Si entro, llego hasta el root*
-4. **🧹 CLEANUP** - *Una buena hacker no deja rastros*
-5. **📚 DOCUMENTATION** - *Cada batalla enseña para la próxima guerra*
-
----
-
-## 🚨 ETHICAL HACKING CODE
-
-```
-⚠️  WARNING: AUTHORIZED PERSONNEL ONLY  ⚠️
-
-Este arsenal está diseñado para:
-✅ Pentesting ético
-✅ Educación
-✅ Certificaciones profesionales
-✅ Investigación de vulnerabilidades
-
-❌ NO para actividades maliciosas
-❌ NO para acceso no autorizado
-❌ NO para dañar sistemas ajenos
-```
-
----
-
-```
-
-     ██████  ▓██   ██▓ ▄▄▄       ███▄    █ ▓█████▄▄▄█████▓ ██▀███   ▄▄▄       ██▓    ▓██   ██▓  ██████ 
-   ▒██    ▒   ▒██  ██▒▒████▄     ██ ▀█   █ ▓█   ▀▓  ██▒ ▓▒▓██ ▒ ██▒▒████▄    ▓██▒     ▒██  ██▒▒██    ▒ 
-   ░ ▓██▄      ▒██ ██░▒██  ▀█▄  ▓██  ▀█ ██▒▒███  ▒ ▓██░ ▒░▓██ ░▄█ ▒▒██  ▀█▄  ▒██░      ▒██ ██░░ ▓██▄   
-     ▒   ██▒   ░ ▐██▓░░██▄▄▄▄██ ▓██▒  ▐▌██▒▒▓█  ▄░ ▓██▓ ░ ▒██▀▀█▄  ░██▄▄▄▄██ ▒██░      ░ ▐██▓░  ▒   ██▒
-   ▒██████▒▒   ░ ██▒▓░ ▓█   ▓██▒▒██░   ▓██░░▒████▒ ▒██▒ ░ ░██▓ ▒██▒ ▓█   ▓██▒░██████▒  ░ ██▒▓░▒██████▒▒
-   ▒ ▒▓▒ ▒ ░    ██▒▒▒  ▒▒   ▓▒█░░ ▒░   ▒ ▒ ░░ ▒░ ░ ▒ ░░   ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░░ ▒░▓  ░   ██▒▒▒ ▒ ▒▓▒ ▒ ░
-   ░ ░▒  ░ ░  ▓██ ░▒░   ▒   ▒▒ ░░ ░░   ░ ▒░ ░ ░  ░   ░      ░▒ ░ ▒░  ▒   ▒▒ ░░ ░ ▒  ░ ▓██ ░▒░ ░ ░▒  ░ ░
-   ░  ░  ░    ▒ ▒ ░░    ░   ▒      ░   ░ ░    ░    ░        ░░   ░   ░   ▒     ░ ░    ▒ ▒ ░░  ░  ░  ░  
-         ░    ░ ░           ░  ░         ░    ░  ░           ░           ░  ░    ░  ░ ░ ░           ░  
-              ░ ░                                                                    ░ ░              
-```
-
----
-
-<div align="center">
-
-![Hacker GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2JrcXRqMDJ4YmpqM2l0dW92bHRtYmFrMnQxa3owYzRybmtmMDA4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwoOoDZpEpdQewQdRR/giphy.gif)
-
-**`[SYSTEM COMPROMISED - WELCOME TO MY WORLD]`**
-
-</div>
+**Perfil:** [github.com/tzayadet](https://github.com/tzayadet) · **Repositorio:** [CTF](https://github.com/tzayadet/CTF)
