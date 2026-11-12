@@ -1,5 +1,7 @@
 # CTF Write-ups & Security Labs
 
+[![GitHub Pages](https://github.com/tzayadet/CTF/actions/workflows/pages.yml/badge.svg)](https://github.com/tzayadet/CTF/actions/workflows/pages.yml)
+
 Colección personal de notas técnicas, laboratorios y write-ups de retos CTF. El repositorio documenta procesos de resolución, herramientas y conceptos practicados en entornos de formación.
 
 > **Alcance:** los objetivos descritos pertenecen a plataformas CTF, máquinas vulnerables y laboratorios autorizados. Las direcciones privadas que aparecen en algunos apuntes son direcciones de laboratorio, no sistemas públicos.
@@ -42,3 +44,10 @@ Los write-ups y apuntes son documentación personal de aprendizaje. Los retos, p
 ---
 
 **Perfil:** [github.com/tzayadet](https://github.com/tzayadet) · **Repositorio:** [CTF](https://github.com/tzayadet/CTF)
+
+## Project showcase
+
+[Open the CTF write-ups showcase](https://tzayadet.github.io/CTF/) · [Showcase source](docs/index.html)
+
+The showcase is an index of the write-ups; the technical notes remain in their individual Markdown files. To publish it, select **Settings → Pages → Build and deployment → Source → GitHub Actions** and set the repository Actions variable `ENABLE_PAGES=true` under **Settings → Secrets and variables → Actions → Variables**.
+
