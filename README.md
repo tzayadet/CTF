@@ -8,7 +8,7 @@
 Notas técnicas y write-ups de retos CTF, máquinas vulnerables y laboratorios formativos. Documento el razonamiento, las pruebas y las herramientas utilizadas, no solo la secuencia de comandos.
 
 <p align="center">
-  <a href="https://tzayadet.github.io/CTF/"><strong>PROJECT SHOWCASE ↗</strong></a> ·
+  <a href="https://tzayadet.github.io/CTF/"><strong>LIVE DEMO ↗</strong></a> ·
   <a href="https://github.com/tzayadet/CTF"><strong>SOURCE CODE</strong></a>
 </p>
 
